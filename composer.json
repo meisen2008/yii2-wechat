@@ -10,6 +10,7 @@
             "email": "mxx0807@gmail.com"
         }
     ],
+    "minimum-stability":"dev",
     "require": {
         "yiisoft/yii2": "*"
     },
