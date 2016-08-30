@@ -1,0 +1,21 @@
+{
+    "name": "moxun33/yii2-wechat",
+    "description": "wechat extension for yii2",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "moxun33",
+            "email": "mxx0807@gmail.com"
+        }
+    ],
+    "minimum-stability":"dev",
+    "require": { 
+    },
+    "autoload": {
+        "psr-4": {
+            "moxun33\\wechat\\": ""
+        }
+    }
+}
